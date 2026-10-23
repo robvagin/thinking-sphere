@@ -57,7 +57,7 @@ Take it if you want it.
 - [Halftone Cloud](https://github.com/robvagin/halftone-cloud) · images rebuilt as a halftone of flying shapes
 - [Motion Primer](https://github.com/robvagin/motion-primer) · bodies that swarm, orbit, fall and gather into a word
 - [Musevis](https://github.com/robvagin/musevis) · a music visualizer: shapes that dance to your sound, live
-- [Particles 3D](https://github.com/robvagin/particles-3d) · a WebGL2 cloud of up to 300,000 particles
+- [Particles 3D](https://github.com/robvagin/particles-3d) · a living cloud of particles that flows like smoke or a flock
 - [Line Engine](https://github.com/robvagin/line-engine) · engraved line patterns in motion: Lissajous, rosettes, waves
 - [Orbital](https://github.com/robvagin/orbital) · data as orbits, axes or a bending mesh
 - [Metaballs](https://github.com/robvagin/metaballs) · soft masses that merge, split and leave holes
